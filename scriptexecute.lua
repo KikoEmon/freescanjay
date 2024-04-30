@@ -25,35 +25,35 @@ end
 
 if gg.isPackageInstalled("sstool.only.com.sstool") then
 gg.alert("Please Uninstall SSTOOL App.")
-gg.os.remove(checker)
+os.remove(checker)
 print("Please Uninstall SSTOOL App")
 os.exit()
 end
 
 if gg.isPackageInstalled("com.reqable.android") then
 gg.alert("Please Uninstall Reqable App.")
-gg.os.remove(checker)
+os.remove(checker)
 print("Please Uninstall Reqable App")
 os.exit()
 end
 
 if gg.isPackageInstalled("com.guoshi.httpcanary") then
 gg.alert("Please Uninstall HttpCannary App.")
-gg.os.remove(checker)
+os.remove(checker)
 print("Please Uninstall HttpCannary App")
 os.exit()
 end
 
 if gg.isPackageInstalled("com.sant.httpcanary") then
 gg.alert("Please Uninstall HttpCannary App.")
-gg.os.remove(checker)
+os.remove(checker)
 print("Please Uninstall HttpCannary App")
 os.exit()
 end
 
 if gg.isPackageInstalled("xyz.easypro.httpcustom") then
 gg.alert("Please Uninstall Http Custom App.")
-gg.os.remove(checker)
+os.remove(checker)
 print("Please Uninstall Http Custom App")
 os.exit()
 end
