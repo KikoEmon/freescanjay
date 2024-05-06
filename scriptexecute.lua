@@ -1,4 +1,4 @@
-gg.alert("Login to: Public Servers")
+gg.toast("Login to: Public Servers")
 if gg.isPackageInstalled("com.germany.decompile") then
 gg.alert("Please Uninstall Lua Dec App.")
 os.remove(checker)
